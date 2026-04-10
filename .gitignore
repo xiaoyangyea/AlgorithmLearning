@@ -1,0 +1,9 @@
+# Ignore all generated executables
+*.exe
+
+# Only keep C/C++ source files (and this ignore file) trackable
+*
+!*/
+!*.c
+!*.cpp
+!.gitignore
