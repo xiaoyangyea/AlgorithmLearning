@@ -1,6 +1,7 @@
 # Ignore all generated executables
 *.exe
-
+# CPH ²å¼þ»º´æ
+.cph/
 # Only keep C/C++ source files (and this ignore file) trackable
 *
 !*/
